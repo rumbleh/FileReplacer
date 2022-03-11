@@ -1,0 +1,25 @@
+{
+  "name": "filereplacer",
+  "version": "1.0.0",
+  "description": "Replace array of bytes from one file to other and saves the output as new file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rumbleh/filereplacer"
+  },
+  "keywords": [
+    "filereplacer",
+    "search",
+    "and",
+    "replace",
+    "bytes"
+  ],
+  "author": "Thiago de Queiroz",
+  "license": "ISC",
+  "dependencies": {
+    "convert-string": "^0.1.0"
+  }
+}
