@@ -4,9 +4,10 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "pwa-node",
-            "args": ["Laje.exe", "1.bmp,3.bmp,5.bmp", "2.bmp,4.bmp,6.bmp"],
+            "args": ["app.exe", "1.bmp,3.bmp,5.bmp,text1.txt,text3.txt", "2.bmp,4.bmp,6.bmp,text2.txt,text4.txt", "saida.exe"],
             "request": "launch",
             "name": "Launch Program",
             "skipFiles": [
