@@ -4,7 +4,8 @@ Node script to search and replace inside a file for a sequence of bytes
 
 It can receive multiple files for search input and replaces.
 
-main.js target.txt in1.txt,in2.txt in3.txt,in4.txt output.txt
+
+index.js target.txt in1.txt,in2.txt in3.txt,in4.txt output.txt
 
 It will search all occorences for contents of:
 
